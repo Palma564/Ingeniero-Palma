@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| Home | My name is Juan David Rodríguez Palma, I am a systems engineering student, and my institutional email address is jrodriguez571@itfip.edu.co. |
+| About | I am 16 years old, in my fourth semester of Systems Engineering, and I enjoy programming. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
