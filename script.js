@@ -101,13 +101,13 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am currently studying Systems and am passionate about frontend development, especially creating dynamic and intuitive interfaces using technologies like React and CSS. I am looking for a job or internship opportunity where I can apply my knowledge to real-world projects and continue growing professionally.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English (A2)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -130,9 +130,9 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
+  "edu.1.text":  "I am currently training in the creation of responsive websites and web applications using HTML, CSS, JavaScript, and SQL databases. I know how to structure dynamic interfaces and integrate basic client-side and server-side logic for functional projects.",
   "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.text":  "none",
 
   "exp.1.title": "[Role or type of project]",
   "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
