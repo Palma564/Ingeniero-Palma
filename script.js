@@ -33,7 +33,7 @@ const ES = {
   "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (A2)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -56,9 +56,9 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
+  "edu.1.text":  "Actualmente me formo en la creación de sitios y aplicaciones web responsivas utilizando HTML, CSS, JavaScript y bases de datos SQL. Sé estructurar interfaces dinámicas e integrar la lógica básica de cliente y servidor para proyectos funcionales.",
   "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.2.text":  "Ninguno",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
   "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "¿Tienes un proyecto en mente, una oportunidad laboral o simplemente quieres saludar? ¡Escríbeme y hablemos!",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Juan David Rdoriguez Palma · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
