@@ -27,10 +27,10 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Actualmente estudio Sistemas y me apasiona el desarrollo frontend, especialmente la creación de interfaces dinámicas e intuitivas con tecnologías como React y CSS. Busco una oportunidad laboral o de prácticas donde pueda aplicar mis conocimientos en proyectos reales y seguir creciendo profesionalmente.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
