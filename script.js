@@ -1,17 +1,7 @@
 /* ============================================================
    WEB PROFILE TEMPLATE - SCRIPT
    UniEspinal · Técnico Profesional en Programación Web
-
-   THIS IS THE FILE YOU WILL WORK ON THE MOST.
-
-   Below there are two dictionaries: ES and EN.
-   They have exactly the same keys, but different texts.
-
-   IMPORTANT: the English version is NOT a translation of the
-   Spanish version. A professional profile in English follows
-   different rules. Read NOTES.md before you write it.
    ============================================================ */
-
 
 /* ------------------------------------------------------------
    1. SPANISH TEXTS
@@ -57,20 +47,20 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Actualmente me formo en la creación de sitios y aplicaciones web responsivas utilizando HTML, CSS, JavaScript y bases de datos SQL. Sé estructurar interfaces dinámicas e integrar la lógica básica de cliente y servidor para proyectos funcionales.",
-  "edu.2.title": "        Curso o certificación",
-  "edu.2.text":  "             Ninguno",
+  "edu.2.title": "Curso o certificación",
+  "edu.2.text":  "Ninguno",
 
   "exp.1.title": "Rol o tipo de proyecto",
-  "exp.1.text":  "Ninguno proyecto todavia",
+  "exp.1.text":  "Ningún proyecto todavía",
   "exp.2.title": "Rol o tipo de proyecto",
-  "exp.2.text":  "Ninguno proyecto todavia",
+  "exp.2.text":  "Ningún proyecto todavía",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "Ninguno todavia",
+  "project.1.title": "Ninguno todavía",
   "project.1.text":  "Ninguna",
-  "project.2.title": "Ninguno todavia",
+  "project.2.title": "Ninguno todavía",
   "project.2.text":  "Ninguna",
-  "project.3.title": "Ninguno todavia",
+  "project.3.title": "Ninguno todavía",
   "project.3.text":  "Ninguna",
 
   "contact.title":         "Contacto",
@@ -84,11 +74,6 @@ const ES = {
 
 /* ------------------------------------------------------------
    2. ENGLISH TEXTS
-
-   Before writing this section, remember:
-   - Use action verbs: built, configured, fixed, tested, supported.
-   - Do not include age, marital status or a home address.
-   - Do not translate word by word. Rewrite.
    ------------------------------------------------------------ */
 const EN = {
   "nav.home":      "HOME",
@@ -131,8 +116,8 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "I am currently training in the creation of responsive websites and web applications using HTML, CSS, JavaScript, and SQL databases. I know how to structure dynamic interfaces and integrate basic client-side and server-side logic for functional projects.",
-  "edu.2.title": "       Course or certificate",
-  "edu.2.text":  "               none",
+  "edu.2.title": "Course or certificate",
+  "edu.2.text":  "None",
 
   "exp.1.title": "Role or type of project",
   "exp.1.text":  "No projects yet.",
@@ -140,17 +125,17 @@ const EN = {
   "exp.2.text":  "No projects yet.",
 
   "portfolio.title": "Projects",
-  "project.1.title": "None yet.",
+  "project.1.title": "None yet",
   "project.1.text":  "None",
-  "project.2.title": "None yet.",
+  "project.2.title": "None yet",
   "project.2.text":  "None",
-  "project.3.title": "None yet.",
+  "project.3.title": "None yet",
   "project.3.text":  "None",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "Do you have a project in mind, a job opportunity, or just want to say hi? Feel free to write me!",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "none",
+  "contact.linkedinValue": "None",
 
   "footer.note": "Juan David Rodriguez Palma · Professional Technician in Web Programming · UniEspinal"
 };
@@ -158,7 +143,6 @@ const EN = {
 
 /* ============================================================
    3. LANGUAGE SWITCHER
-   You do not need to change the code below.
    ============================================================ */
 
 const DICCIONARIOS = { es: ES, en: EN };
@@ -218,10 +202,6 @@ function cerrarMenu() {
 
 /* ============================================================
    5. SKILL BARS
-
-   The width comes from the data-percent attribute in index.html.
-   You can add or remove skills freely: this code does not depend
-   on how many there are.
    ============================================================ */
 
 function animarHabilidades() {
